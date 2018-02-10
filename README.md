@@ -13,3 +13,9 @@ Just simply open the mario.py using the Python IDLE and go to Run Option on the 
 I have also developed some other Python based Applications that can be used like Tracing co-ordinates of a ball and Binary search Depection using Python that can be [executed](#for-executing-the-program) in the same manner as mentioned above.
 
 Hope you will like the Project!!
+
+## Important Note
+Any user using this Repo should include this Git link and Contributor's name in their work.
+
+## Contributors
+K. N. Dheeraj (kndheeraj0@gmail.com)
